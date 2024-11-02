@@ -12,3 +12,7 @@
 ```conda activate medibot```
 
 
+Embedding Model - https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
+
+
